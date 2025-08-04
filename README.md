@@ -7,7 +7,7 @@
 
 
 **📌 Project Overview**  
-This project objective is to build a predictive churn model to **identify customres who are due to churn in business**. Also identify the commerical impact of they have on the business and suggest acionable recommendations to overcome them.
+This project objective is to build a predictive churn model to identify customers who are due to churn in business. Also identify the commercial impact of they have on the business and suggest actionable recommendations to overcome them.
 
 ---
 
